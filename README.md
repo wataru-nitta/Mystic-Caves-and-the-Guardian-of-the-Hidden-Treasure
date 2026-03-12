@@ -77,5 +77,4 @@
 
 ## フォルダ構成
 * `01_Executable`: 実行ファイルおよび冒険のガイド（PDF）
-* `02_SourceCode`: 自作スクリプトのみを抽出したフォルダ
-* `03_UnityProject`: 開発環境一式
+* `02_UnityProject`: 開発環境一式
